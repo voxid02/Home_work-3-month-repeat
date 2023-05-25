@@ -1,0 +1,84 @@
+{
+    "obj": {
+        "obj1": [
+          { 
+            "img":"https://basket-05.wb.ru/vol757/part75709/75709382/images/big/1.jpg",
+            "name":"Ummah",
+            "price":"2100р",
+            "description":"КОРАН смысловой перевод на русском и арабском языках Кулиев"
+        } 
+        ],
+        "obj2": [
+            { 
+              "img":"https://basket-02.wb.ru/vol247/part24762/24762727/images/big/1.jpg",
+              "name":"ЧИТАЙ-УММА",
+              "price":"2546р",
+              "description":"Мусхаф Коран на русском и арабском языке с таджвидом Кулиев"
+            }
+        ],
+          "obj3": [
+            { 
+              "img":"https://basket-05.wb.ru/vol795/part79530/79530907/images/big/1.jpg",
+              "name":"Коран с тажвидом",
+              "price":"2523р",
+              "description":"Мусхаф на арабском, русском. Перевод. Кулиев каран"
+          } 
+        ],
+          "obj4": [
+            { 
+              "img":"https://basket-04.wb.ru/vol444/part44487/44487182/images/c516x688/1.jpg",
+              "name":"Iman-Book",
+              "price":"2523р",
+              "description":"Коран на русском языке с транслитерацией и таджвидом. Коран 4 в 1"
+          } 
+          ],
+          "obj5": [
+            { 
+              "img":"https://basket-05.wb.ru/vol727/part72700/72700930/images/c246x328/1.jpg",
+              "name":"Издельство APC",
+              "price":"834р",
+              "description":"Коран. Прочтение смыслов"
+          } 
+          ],
+          "obj6": [
+            { 
+              "img":"https://basket-10.wb.ru/vol1505/part150538/150538857/images/c516x688/3.jpg",
+              "name":"Мой Коран",
+              "price":"888р",
+              "description":"Коран с таждвидом"
+          } 
+        ],
+          "obj7": [
+            { 
+              "img":"https://basket-02.wb.ru/vol196/part19637/19637987/images/c516x688/1.jpg",
+              "name":"Iman-Book",
+              "price":"1505р",
+              "description":"Коран с таждвидом (Таджик.)"
+          } 
+          ],
+          "obj8": [
+            { 
+              "img":"https://basket-01.wb.ru/vol60/part6072/6072193/images/c516x688/7.jpg",
+              "name":"Коран ",
+              "price":"344р",
+              "description":"Издательства Феникс"
+          } 
+        ],
+          "obj9": [
+            { 
+              "img":"https://basket-02.wb.ru/vol177/part17757/17757327/images/c516x688/2.jpg",
+              "name":"ЧИТАЙ-УММА",
+              "price":"700 руб",
+              "description":"Детская книга Мой первый Коран Истории из Корана Рассказы"
+          } 
+        ],
+          "obj10": [
+            { 
+              "img":"https://basket-05.wb.ru/vol755/part75594/75594372/images/c516x688/3.jpg",
+              "name":"Куръони карим",
+              "price":"854р",
+              "description":"Коран на узбекском языке, Куръони Карим"
+          } 
+        ]
+    }
+}
